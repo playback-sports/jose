@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/SermoDigital/jose"
-	"github.com/SermoDigital/jose/jwt"
+	"github.com/playback-sports/jose"
+	"github.com/playback-sports/jose/jwt"
 )
 
 // Claims represents a set of JOSE Claims.

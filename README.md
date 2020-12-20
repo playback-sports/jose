@@ -1,7 +1,7 @@
 JOSE
 ============
 [![Build Status](https://travis-ci.org/SermoDigital/jose.svg?branch=master)](https://travis-ci.org/SermoDigital/jose)
-[![GoDoc](https://godoc.org/github.com/SermoDigital/jose?status.svg)](https://godoc.org/github.com/SermoDigital/jose)
+[![GoDoc](https://godoc.org/github.com/playback-sports/jose?status.svg)](https://godoc.org/github.com/playback-sports/jose)
 
 JOSE is a comprehensive set of JWT, JWS, and JWE libraries.
 
@@ -23,7 +23,7 @@ JWE is currently unimplemented.
 The docs can be found at [godoc.org] [docs], as usual.
 
 A gopkg.in mirror can be found at https://gopkg.in/jose.v1, thanks to
-@zia-newversion. (For context, see issue #30.) 
+@zia-newversion. (For context, see issue #30.)
 
 ### [JWS RFC][jws]
 ### [JWE RFC][jwe]
@@ -33,8 +33,8 @@ A gopkg.in mirror can be found at https://gopkg.in/jose.v1, thanks to
 
 [MIT] [license].
 
-[docs]:    https://godoc.org/github.com/SermoDigital/jose
-[license]: https://github.com/SermoDigital/jose/blob/master/LICENSE.md
+[docs]:    https://godoc.org/github.com/playback-sports/jose
+[license]: https://github.com/playback-sports/jose/blob/master/LICENSE.md
 [jws]: https://tools.ietf.org/html/rfc7515
 [jwe]: https://tools.ietf.org/html/rfc7516
 [jwt]: https://tools.ietf.org/html/rfc7519
